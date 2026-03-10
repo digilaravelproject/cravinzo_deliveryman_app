@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "396752002467",
+    "firebase_url": "https://cravinzo-56ad4-default-rtdb.firebaseio.com",
+    "project_id": "cravinzo-56ad4",
+    "storage_bucket": "cravinzo-56ad4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396752002467:android:5457131a24a5a186a0ce16",
+        "android_client_info": {
+          "package_name": "com.cravinzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396752002467-343u1u97fp3pogf2qpd73iuh9rb3fva5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0G__XHbzfJWld4c9gpG0q6ZzRZzNh6wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396752002467-343u1u97fp3pogf2qpd73iuh9rb3fva5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396752002467-ifn03nj9u85km60t28hsb3nkfccp2gt6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cravinzo.restaurantpartner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396752002467:android:cb6c9de9d92d7d84a0ce16",
+        "android_client_info": {
+          "package_name": "com.cravinzo.deliverypartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396752002467-343u1u97fp3pogf2qpd73iuh9rb3fva5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0G__XHbzfJWld4c9gpG0q6ZzRZzNh6wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396752002467-343u1u97fp3pogf2qpd73iuh9rb3fva5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396752002467-ifn03nj9u85km60t28hsb3nkfccp2gt6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cravinzo.restaurantpartner"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396752002467:android:6c908d4202bbb430a0ce16",
+        "android_client_info": {
+          "package_name": "com.cravinzo.restaurantpartner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396752002467-343u1u97fp3pogf2qpd73iuh9rb3fva5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0G__XHbzfJWld4c9gpG0q6ZzRZzNh6wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396752002467-343u1u97fp3pogf2qpd73iuh9rb3fva5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "396752002467-ifn03nj9u85km60t28hsb3nkfccp2gt6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cravinzo.restaurantpartner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
